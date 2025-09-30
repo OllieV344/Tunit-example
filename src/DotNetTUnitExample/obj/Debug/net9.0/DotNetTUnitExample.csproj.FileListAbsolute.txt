@@ -12,3 +12,4 @@ C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\re
 C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.pdb
 C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.genruntimeconfig.cache
 C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\ref\DotNetTUnitExample.dll
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.sourcelink.json

@@ -57,3 +57,4 @@ C:\Users\DefTech-Oliver\Tunit-example\tests\DotNetTUnitExample.Tests\obj\Debug\n
 C:\Users\DefTech-Oliver\Tunit-example\tests\DotNetTUnitExample.Tests\obj\Debug\net9.0\DotNetTUnitExample.Tests.pdb
 C:\Users\DefTech-Oliver\Tunit-example\tests\DotNetTUnitExample.Tests\obj\Debug\net9.0\DotNetTUnitExample.Tests.genruntimeconfig.cache
 C:\Users\DefTech-Oliver\Tunit-example\tests\DotNetTUnitExample.Tests\obj\Debug\net9.0\ref\DotNetTUnitExample.Tests.dll
+C:\Users\DefTech-Oliver\Tunit-example\tests\DotNetTUnitExample.Tests\obj\Debug\net9.0\DotNetTUnitExample.Tests.sourcelink.json
