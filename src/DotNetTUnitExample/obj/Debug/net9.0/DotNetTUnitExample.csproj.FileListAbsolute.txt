@@ -1,0 +1,14 @@
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\bin\Debug\net9.0\DotNetTUnitExample.exe
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\bin\Debug\net9.0\DotNetTUnitExample.deps.json
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\bin\Debug\net9.0\DotNetTUnitExample.runtimeconfig.json
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\bin\Debug\net9.0\DotNetTUnitExample.dll
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\bin\Debug\net9.0\DotNetTUnitExample.pdb
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.AssemblyInfoInputs.cache
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.AssemblyInfo.cs
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.csproj.CoreCompileInputs.cache
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.dll
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\refint\DotNetTUnitExample.dll
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.pdb
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\DotNetTUnitExample.genruntimeconfig.cache
+C:\Users\DefTech-Oliver\Tunit-example\src\DotNetTUnitExample\obj\Debug\net9.0\ref\DotNetTUnitExample.dll

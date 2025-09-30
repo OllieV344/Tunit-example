@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCUib6Bcd20=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DefTech-Oliver\\Tunit-example\\tests\\DotNetTUnitExample.Tests\\DotNetTUnitExample.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\enumerableasyncprocessor\\3.8.4\\enumerableasyncprocessor.3.8.4.nupkg.sha512",
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.8.4\\microsoft.testing.extensions.trxreport.abstractions.1.8.4.nupkg.sha512",
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\microsoft.testing.platform\\1.8.4\\microsoft.testing.platform.1.8.4.nupkg.sha512",
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.4.3\\microsoft.testing.platform.msbuild.1.4.3.nupkg.sha512",
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\system.threading.channels\\9.0.0\\system.threading.channels.9.0.0.nupkg.sha512",
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\tunit\\0.61.58\\tunit.0.61.58.nupkg.sha512",
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\tunit.assertions\\0.61.58\\tunit.assertions.0.61.58.nupkg.sha512",
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\tunit.core\\0.61.58\\tunit.core.0.61.58.nupkg.sha512",
+    "C:\\Users\\DefTech-Oliver\\.nuget\\packages\\tunit.engine\\0.61.58\\tunit.engine.0.61.58.nupkg.sha512"
+  ],
+  "logs": []
+}

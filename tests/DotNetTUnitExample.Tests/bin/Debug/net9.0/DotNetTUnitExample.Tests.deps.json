@@ -1,0 +1,268 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DotNetTUnitExample.Tests/1.0.0": {
+        "dependencies": {
+          "DotNetTUnitExample": "1.0.0",
+          "TUnit": "0.61.58"
+        },
+        "runtime": {
+          "DotNetTUnitExample.Tests.dll": {}
+        }
+      },
+      "EnumerableAsyncProcessor/3.8.4": {
+        "runtime": {
+          "lib/net9.0/EnumerableAsyncProcessor.dll": {
+            "assemblyVersion": "3.8.4.0",
+            "fileVersion": "3.8.4.0"
+          }
+        }
+      },
+      "Microsoft.Testing.Extensions.TrxReport.Abstractions/1.8.4": {
+        "dependencies": {
+          "Microsoft.Testing.Platform": "1.8.4"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Testing.Extensions.TrxReport.Abstractions.dll": {
+            "assemblyVersion": "1.8.4.0",
+            "fileVersion": "1.800.425.45208"
+          }
+        }
+      },
+      "Microsoft.Testing.Platform/1.8.4": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Testing.Platform.dll": {
+            "assemblyVersion": "1.8.4.0",
+            "fileVersion": "1.800.425.45208"
+          }
+        },
+        "resources": {
+          "lib/net9.0/cs/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net9.0/de/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net9.0/es/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net9.0/fr/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net9.0/it/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net9.0/ja/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net9.0/ko/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net9.0/pl/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net9.0/pt-BR/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net9.0/ru/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net9.0/tr/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net9.0/zh-Hans/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net9.0/zh-Hant/Microsoft.Testing.Platform.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "Microsoft.Testing.Platform.MSBuild/1.4.3": {
+        "dependencies": {
+          "Microsoft.Testing.Platform": "1.8.4"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Testing.Platform.MSBuild.dll": {
+            "assemblyVersion": "1.4.3.0",
+            "fileVersion": "1.400.324.56104"
+          }
+        },
+        "resources": {
+          "lib/net8.0/cs/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net8.0/de/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net8.0/es/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net8.0/fr/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net8.0/it/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net8.0/ja/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net8.0/ko/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net8.0/pl/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net8.0/pt-BR/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net8.0/ru/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net8.0/tr/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net8.0/zh-Hans/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net8.0/zh-Hant/Microsoft.Testing.Platform.MSBuild.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "System.Threading.Channels/9.0.0": {},
+      "TUnit/0.61.58": {
+        "dependencies": {
+          "TUnit.Assertions": "0.61.58",
+          "TUnit.Engine": "0.61.58"
+        },
+        "runtime": {
+          "lib/net9.0/TUnit.dll": {
+            "assemblyVersion": "0.61.58.0",
+            "fileVersion": "0.61.58.0"
+          }
+        }
+      },
+      "TUnit.Assertions/0.61.58": {
+        "runtime": {
+          "lib/net9.0/TUnit.Assertions.dll": {
+            "assemblyVersion": "0.61.58.0",
+            "fileVersion": "0.61.58.0"
+          }
+        }
+      },
+      "TUnit.Core/0.61.58": {
+        "runtime": {
+          "lib/net9.0/TUnit.Core.dll": {
+            "assemblyVersion": "0.61.58.0",
+            "fileVersion": "0.61.58.0"
+          }
+        }
+      },
+      "TUnit.Engine/0.61.58": {
+        "dependencies": {
+          "EnumerableAsyncProcessor": "3.8.4",
+          "Microsoft.Testing.Extensions.TrxReport.Abstractions": "1.8.4",
+          "Microsoft.Testing.Platform": "1.8.4",
+          "Microsoft.Testing.Platform.MSBuild": "1.4.3",
+          "System.Threading.Channels": "9.0.0",
+          "TUnit.Core": "0.61.58"
+        },
+        "runtime": {
+          "lib/net9.0/TUnit.Engine.dll": {
+            "assemblyVersion": "0.61.58.0",
+            "fileVersion": "0.61.58.0"
+          }
+        }
+      },
+      "DotNetTUnitExample/1.0.0": {
+        "runtime": {
+          "DotNetTUnitExample.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetTUnitExample.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnumerableAsyncProcessor/3.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KlbpupRCz3Kf+P7gsiDvFXJ980i/9lfihMZFmmxIk0Gf6mopEjy74OTJZmdaKDQpE29eQDBnMZB5khyW3eugrg==",
+      "path": "enumerableasyncprocessor/3.8.4",
+      "hashPath": "enumerableasyncprocessor.3.8.4.nupkg.sha512"
+    },
+    "Microsoft.Testing.Extensions.TrxReport.Abstractions/1.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jDGV5d9K5zeQG6I5ZHZrrXd0sO9up/XLpb5qI5W+FPGJx5JXx5yEiwkw0MIEykH9ydeMASPOmjbY/7jS++gYwA==",
+      "path": "microsoft.testing.extensions.trxreport.abstractions/1.8.4",
+      "hashPath": "microsoft.testing.extensions.trxreport.abstractions.1.8.4.nupkg.sha512"
+    },
+    "Microsoft.Testing.Platform/1.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MpYE6A13G9zLZjkDmy2Fm/R0MRkjBR75P0F8B1yLaUshaATixPlk2S2OE6u/rlqtqMkbEyM7F6wxc332gZpBpA==",
+      "path": "microsoft.testing.platform/1.8.4",
+      "hashPath": "microsoft.testing.platform.1.8.4.nupkg.sha512"
+    },
+    "Microsoft.Testing.Platform.MSBuild/1.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1gGqgHtiZ6tZn/6Tby+qlKpNe5Ye/5LnxlSsyl4XMZ4m4V+Cu1K1m+gD1zxoxHIvLjgX8mCnQRK95MGBBFuumw==",
+      "path": "microsoft.testing.platform.msbuild/1.4.3",
+      "hashPath": "microsoft.testing.platform.msbuild.1.4.3.nupkg.sha512"
+    },
+    "System.Threading.Channels/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hzACdIf1C+4Dqos5ijV404b94+LqfIC8nfS3mNpCDFWowb1N3PNfJPopneq32ahWlDeyaPZJqjBk76YFR69Rpg==",
+      "path": "system.threading.channels/9.0.0",
+      "hashPath": "system.threading.channels.9.0.0.nupkg.sha512"
+    },
+    "TUnit/0.61.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HomH7NKBOZh3+v4pd5L21E+evL1FOZQ7EejfBn5J/iyAGWPX55RsVrdsP13yFskCFAeXI3AuloB90KcnZ/J9Fw==",
+      "path": "tunit/0.61.58",
+      "hashPath": "tunit.0.61.58.nupkg.sha512"
+    },
+    "TUnit.Assertions/0.61.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k59ZEh5KoIIR05nFqw07GI0shQBfIlBMQP9w/rRmfX0qQtB1LuykQHovmMsu9rR6VUP7yivEYXwtA3do9jDkHQ==",
+      "path": "tunit.assertions/0.61.58",
+      "hashPath": "tunit.assertions.0.61.58.nupkg.sha512"
+    },
+    "TUnit.Core/0.61.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UtjSRz4N7sR7pz72TKlyKi9++m9g2qhh6WbfjGC6jwQkwBBfVzrWc+iX5zHWeIo3dxsKyuOC++KwpYiZ/bYKyQ==",
+      "path": "tunit.core/0.61.58",
+      "hashPath": "tunit.core.0.61.58.nupkg.sha512"
+    },
+    "TUnit.Engine/0.61.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0OXsGBaJavNisY9f5QCcUWS9hHdaxem2isCbdXsUYrgKj7y+SxdQuqEGjChbju+rzkbCWQAkurBtdHvUHJzSpA==",
+      "path": "tunit.engine/0.61.58",
+      "hashPath": "tunit.engine.0.61.58.nupkg.sha512"
+    },
+    "DotNetTUnitExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
